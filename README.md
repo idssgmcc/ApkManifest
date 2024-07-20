@@ -35,3 +35,9 @@ check_ApkManifest.py
 在终端或命令行中运行脚本：
     
       python3 check_manifest.py
+
+
+![image](https://github.com/user-attachments/assets/2f5d4460-b9ce-45ac-888b-b36e85d4c750)
+
+![image](https://github.com/user-attachments/assets/20f0a1a0-7330-40bb-a820-7209c3ce0893)
+
